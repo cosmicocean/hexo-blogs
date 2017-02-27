@@ -1,5 +1,5 @@
 ---
-title: Centos7上配置Git客户端
+title: Centos7上安装并配置Git客户端
 date: 2017-02-24 11:22:30
 tags:
 ---
@@ -13,7 +13,7 @@ tags:
 
 ## 说明
 
-本文档主要讲解如果在一台新购置的阿里云服务器（已经预装Centos7）上进行如下操作的过程：
+本文档主要讲解如何在一台新购置的阿里云服务器（已经预装Centos7）上进行如下操作的过程：
 
 * 服务器信息基本配置
 * 安装Git
@@ -48,7 +48,7 @@ Description:   	CentOS Linux release 7.2.1511 (Core)
 Release:       	7.2.1511
 Codename:      	Core
 ```
-- 主机名：test
+- 主机名：web1
 
 ## 配置步骤
 
